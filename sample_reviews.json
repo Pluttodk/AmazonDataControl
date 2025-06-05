@@ -1,0 +1,69 @@
+[
+  {
+    "rating": 3,
+    "title": "Decent product",
+    "text": "Exactly what I was looking for. Works perfectly.",
+    "images": [],
+    "asin": "0IFD0TVBDI",
+    "parent_asin": "VUZZPQK51F",
+    "user_id": "USER1F5311DCF7",
+    "timestamp": "2024-08-11T20:28:22.562487",
+    "helpful_vote": 0,
+    "verified_purchase": false
+  },
+  {
+    "rating": 5,
+    "title": "Good value for money",
+    "text": "Good product overall, though delivery took a while.",
+    "images": [
+      "temp65169b78.jpg"
+    ],
+    "asin": "8MDD4V30T9",
+    "parent_asin": "NT3W5UZBIK",
+    "user_id": "USER86A387F839",
+    "timestamp": "2023-08-26T20:28:22.562558",
+    "helpful_vote": 2,
+    "verified_purchase": true
+  },
+  {
+    "rating": 5,
+    "title": "Love it!",
+    "text": "Great value for money. Highly recommend to others.",
+    "images": [
+      "temp1373dc75.jpg",
+      "temp1358096e.jpg"
+    ],
+    "asin": "Q4FMYZYCWT",
+    "parent_asin": "IQJ7YHL1C3",
+    "user_id": "USER4D965B0094",
+    "timestamp": "2024-04-24T20:28:22.562586",
+    "helpful_vote": 1,
+    "verified_purchase": false
+  },
+  {
+    "rating": 4,
+    "title": "Good value for money",
+    "text": "Exactly what I was looking for. Works perfectly.",
+    "images": [
+      "temp3c0e02f3.jpg"
+    ],
+    "asin": "6UZHR5XFF0",
+    "parent_asin": "T0PVN9ER14",
+    "user_id": "USERE355A90735",
+    "timestamp": "2023-11-09T20:28:22.562607",
+    "helpful_vote": 0,
+    "verified_purchase": true
+  },
+  {
+    "rating": 5,
+    "title": "Decent product",
+    "text": "Great value for money. Highly recommend to others.",
+    "images": [],
+    "asin": "NVQJT7YE51",
+    "parent_asin": "1MKFAZZ81S",
+    "user_id": "USERADAB164DF1",
+    "timestamp": "2023-09-22T20:28:22.562624",
+    "helpful_vote": 0,
+    "verified_purchase": false
+  }
+]

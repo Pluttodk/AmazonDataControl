@@ -1,0 +1,1133 @@
+{
+  "metadata": {
+    "analysis_timestamp": "2025-06-05T20:29:19.616108",
+    "total_reviews": 1000,
+    "analysis_version": "1.0.0"
+  },
+  "temporal_analysis": {
+    "positive_review_spikes": {
+      "total_spike_days": 0,
+      "spike_threshold": 1.5,
+      "avg_spike_positive_rate": 0,
+      "recurring_patterns": {
+        "recurring_found": false
+      },
+      "spike_details": [],
+      "monthly_spike_frequency": {}
+    },
+    "seasonal_product_shifts": {
+      "seasonal_patterns": {
+        "summer": {
+          "total_reviews": 82,
+          "peak_month": "2",
+          "peak_count": "10",
+          "monthly_distribution": {
+            "1": 9,
+            "2": 10,
+            "3": 5,
+            "4": 6,
+            "5": 8,
+            "6": 6,
+            "7": 5,
+            "8": 6,
+            "9": 6,
+            "10": 10,
+            "11": 6,
+            "12": 5
+          },
+          "avg_rating": 4.2682926829268295,
+          "seasonal_index": 1.4634146341463414
+        }
+      },
+      "strongest_seasonal_trend": [
+        "summer",
+        {
+          "total_reviews": 82,
+          "peak_month": "2",
+          "peak_count": "10",
+          "monthly_distribution": {
+            "1": 9,
+            "2": 10,
+            "3": 5,
+            "4": 6,
+            "5": 8,
+            "6": 6,
+            "7": 5,
+            "8": 6,
+            "9": 6,
+            "10": 10,
+            "11": 6,
+            "12": 5
+          },
+          "avg_rating": 4.2682926829268295,
+          "seasonal_index": 1.4634146341463414
+        }
+      ]
+    },
+    "helpful_vote_increases": {
+      "period_analysis": {
+        "period_1": {
+          "date_range": "2023-06-07 to 2023-12-07",
+          "total_reviews": 260,
+          "avg_helpful_votes": 2.2384615384615385,
+          "top_products": {
+            "5SFE0X7H2C": {
+              "avg_helpful": 12.0,
+              "total_helpful": 12,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "W3BME9FPZU": {
+              "avg_helpful": 12.0,
+              "total_helpful": 12,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "175DU23JH0": {
+              "avg_helpful": 11.0,
+              "total_helpful": 11,
+              "review_count": 1,
+              "avg_rating": 4.0
+            },
+            "98X16F4ZZW": {
+              "avg_helpful": 11.0,
+              "total_helpful": 11,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "8CLRKI72OA": {
+              "avg_helpful": 8.0,
+              "total_helpful": 8,
+              "review_count": 1,
+              "avg_rating": 5.0
+            }
+          }
+        },
+        "period_2": {
+          "date_range": "2023-12-07 to 2024-06-06",
+          "total_reviews": 267,
+          "avg_helpful_votes": 2.2734082397003745,
+          "top_products": {
+            "Q7VZFPDOU0": {
+              "avg_helpful": 12.0,
+              "total_helpful": 12,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "66XTF52BWH": {
+              "avg_helpful": 10.0,
+              "total_helpful": 10,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "BV03DS0MWK": {
+              "avg_helpful": 9.0,
+              "total_helpful": 9,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "FWTEVTX3NF": {
+              "avg_helpful": 8.0,
+              "total_helpful": 8,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "GWJEYUB19T": {
+              "avg_helpful": 8.0,
+              "total_helpful": 8,
+              "review_count": 1,
+              "avg_rating": 5.0
+            }
+          }
+        },
+        "period_3": {
+          "date_range": "2024-06-06 to 2024-12-05",
+          "total_reviews": 232,
+          "avg_helpful_votes": 2.293103448275862,
+          "top_products": {
+            "TXRGN74F9Y": {
+              "avg_helpful": 11.0,
+              "total_helpful": 11,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "G52KRE4V9K": {
+              "avg_helpful": 10.0,
+              "total_helpful": 10,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "S30U7FRZUD": {
+              "avg_helpful": 9.0,
+              "total_helpful": 9,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "TDO1DFSTS3": {
+              "avg_helpful": 9.0,
+              "total_helpful": 9,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "2TN20VZ9LY": {
+              "avg_helpful": 8.0,
+              "total_helpful": 8,
+              "review_count": 1,
+              "avg_rating": 5.0
+            }
+          }
+        },
+        "period_4": {
+          "date_range": "2024-12-05 to 2025-06-05",
+          "total_reviews": 240,
+          "avg_helpful_votes": 2.3875,
+          "top_products": {
+            "B4GF16YE0A": {
+              "avg_helpful": 9.0,
+              "total_helpful": 9,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "OHPN9FDLR8": {
+              "avg_helpful": 9.0,
+              "total_helpful": 9,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "ZDNG61SP5O": {
+              "avg_helpful": 9.0,
+              "total_helpful": 9,
+              "review_count": 1,
+              "avg_rating": 3.0
+            },
+            "LXTNJS18L9": {
+              "avg_helpful": 8.0,
+              "total_helpful": 8,
+              "review_count": 1,
+              "avg_rating": 5.0
+            },
+            "ORAC8CYNL6": {
+              "avg_helpful": 8.0,
+              "total_helpful": 8,
+              "review_count": 1,
+              "avg_rating": 5.0
+            }
+          }
+        }
+      },
+      "trending_products": {},
+      "products_with_increases": 0,
+      "strongest_trend": null
+    },
+    "keyword_frequency_changes": {
+      "period_summaries": {
+        "period_1": {
+          "date_range": "2023-06-07 to 2023-12-07",
+          "total_reviews": 260,
+          "keyword_counts": {
+            "itching": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "rash": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "allergic": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "burn": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "irritation": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "side effect": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "worse": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "terrible": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "awful": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "horrible": {
+              "count": "0",
+              "frequency": 0.0
+            }
+          },
+          "most_frequent_bad_keyword": [
+            "itching",
+            {
+              "count": "0",
+              "frequency": 0.0
+            }
+          ]
+        },
+        "period_2": {
+          "date_range": "2023-12-07 to 2024-06-06",
+          "total_reviews": 267,
+          "keyword_counts": {
+            "itching": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "rash": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "allergic": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "burn": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "irritation": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "side effect": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "worse": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "terrible": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "awful": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "horrible": {
+              "count": "0",
+              "frequency": 0.0
+            }
+          },
+          "most_frequent_bad_keyword": [
+            "itching",
+            {
+              "count": "0",
+              "frequency": 0.0
+            }
+          ]
+        },
+        "period_3": {
+          "date_range": "2024-06-06 to 2024-12-05",
+          "total_reviews": 232,
+          "keyword_counts": {
+            "itching": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "rash": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "allergic": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "burn": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "irritation": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "side effect": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "worse": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "terrible": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "awful": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "horrible": {
+              "count": "0",
+              "frequency": 0.0
+            }
+          },
+          "most_frequent_bad_keyword": [
+            "itching",
+            {
+              "count": "0",
+              "frequency": 0.0
+            }
+          ]
+        },
+        "period_4": {
+          "date_range": "2024-12-05 to 2025-06-05",
+          "total_reviews": 240,
+          "keyword_counts": {
+            "itching": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "rash": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "allergic": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "burn": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "irritation": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "side effect": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "worse": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "terrible": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "awful": {
+              "count": "0",
+              "frequency": 0.0
+            },
+            "horrible": {
+              "count": "0",
+              "frequency": 0.0
+            }
+          },
+          "most_frequent_bad_keyword": [
+            "itching",
+            {
+              "count": "0",
+              "frequency": 0.0
+            }
+          ]
+        }
+      },
+      "keyword_trends": {
+        "itching": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        },
+        "rash": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        },
+        "allergic": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        },
+        "burn": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        },
+        "irritation": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        },
+        "side effect": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        },
+        "worse": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        },
+        "terrible": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        },
+        "awful": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        },
+        "horrible": {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        }
+      },
+      "increasing_negative_keywords": {},
+      "most_concerning_trend": [
+        "itching",
+        {
+          "trend_slope": 0.0,
+          "current_frequency": 0.0,
+          "initial_frequency": 0.0,
+          "change": 0.0,
+          "periods": [
+            {
+              "period": 1,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 260
+            },
+            {
+              "period": 2,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 267
+            },
+            {
+              "period": 3,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 232
+            },
+            {
+              "period": 4,
+              "count": "0",
+              "frequency": 0.0,
+              "total_reviews": 240
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "user_behavior_analysis": {
+    "superusers_influencers": {
+      "message": "No users meet minimum review criteria"
+    },
+    "review_impact_on_sales": {
+      "total_high_impact_reviews": 148,
+      "avg_velocity_increase": 0.0,
+      "correlation_helpful_votes_impact": {
+        "correlation": NaN,
+        "p_value": NaN
+      },
+      "top_impactful_reviews": [
+        {
+          "review_id": "USERACD849F039_AACKXXQO40",
+          "user_id": "USERACD849F039",
+          "asin": "AACKXXQO40",
+          "helpful_votes": 8,
+          "rating": 5,
+          "review_date": "2023-06-23T20:29:19.336214",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        },
+        {
+          "review_id": "USER9D95C51B34_IZEEUO164F",
+          "user_id": "USER9D95C51B34",
+          "asin": "IZEEUO164F",
+          "helpful_votes": 5,
+          "rating": 3,
+          "review_date": "2023-07-01T20:29:19.326183",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        },
+        {
+          "review_id": "USER653531B64C_GO70BILKJH",
+          "user_id": "USER653531B64C",
+          "asin": "GO70BILKJH",
+          "helpful_votes": 6,
+          "rating": 5,
+          "review_date": "2023-07-04T20:29:19.333383",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        },
+        {
+          "review_id": "USER85289A84EE_YUTFEFZ811",
+          "user_id": "USER85289A84EE",
+          "asin": "YUTFEFZ811",
+          "helpful_votes": 5,
+          "rating": 4,
+          "review_date": "2023-07-06T20:29:19.335976",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        },
+        {
+          "review_id": "USER16F40E53D8_K4KL9FG2NE",
+          "user_id": "USER16F40E53D8",
+          "asin": "K4KL9FG2NE",
+          "helpful_votes": 8,
+          "rating": 5,
+          "review_date": "2023-07-07T20:29:19.336557",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        },
+        {
+          "review_id": "USERE0B248A4D9_1ZHQUNUE7A",
+          "user_id": "USERE0B248A4D9",
+          "asin": "1ZHQUNUE7A",
+          "helpful_votes": 5,
+          "rating": 5,
+          "review_date": "2023-07-08T20:29:19.324622",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        },
+        {
+          "review_id": "USER20877A8B14_X3030A67RL",
+          "user_id": "USER20877A8B14",
+          "asin": "X3030A67RL",
+          "helpful_votes": 6,
+          "rating": 2,
+          "review_date": "2023-07-13T20:29:19.326019",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        },
+        {
+          "review_id": "USER8C4DB63AF3_HI8H7PR28J",
+          "user_id": "USER8C4DB63AF3",
+          "asin": "HI8H7PR28J",
+          "helpful_votes": 7,
+          "rating": 5,
+          "review_date": "2023-07-14T20:29:19.337653",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        },
+        {
+          "review_id": "USER5EE6784891_ENNNGVDLV0",
+          "user_id": "USER5EE6784891",
+          "asin": "ENNNGVDLV0",
+          "helpful_votes": 8,
+          "rating": 4,
+          "review_date": "2023-07-15T20:29:19.338980",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        },
+        {
+          "review_id": "USERA7EEFCD28E_W3BME9FPZU",
+          "user_id": "USERA7EEFCD28E",
+          "asin": "W3BME9FPZU",
+          "helpful_votes": 12,
+          "rating": 5,
+          "review_date": "2023-07-16T20:29:19.318408",
+          "before_count": 0,
+          "after_count": 0,
+          "before_velocity": 0,
+          "after_velocity": 0.0,
+          "velocity_increase": 0.0,
+          "impact_ratio": 0
+        }
+      ],
+      "impact_distribution": {
+        "positive_impacts": 0,
+        "negative_impacts": 0,
+        "no_impact": 148
+      }
+    },
+    "helpful_review_characteristics": {
+      "helpful_threshold": 3.0,
+      "total_helpful_reviews": 364,
+      "total_non_helpful_reviews": 636,
+      "characteristics": {
+        "rating_distribution": {
+          "helpful_reviews": {
+            "1": 2,
+            "2": 7,
+            "3": 28,
+            "4": 118,
+            "5": 209
+          },
+          "non_helpful_reviews": {
+            "1": 3,
+            "2": 17,
+            "3": 82,
+            "4": 210,
+            "5": 324
+          }
+        },
+        "text_length": {
+          "helpful_avg": 50.84065934065934,
+          "non_helpful_avg": 51.632075471698116,
+          "helpful_median": 48.0,
+          "non_helpful_median": 48.0
+        },
+        "verified_purchase_impact": {
+          "helpful_verified_rate": 0.4725274725274725,
+          "non_helpful_verified_rate": 0.5031446540880503
+        },
+        "rating_extremes": {
+          "extreme_helpful_rate": 0.39219330855018586,
+          "moderate_helpful_rate": 0.33116883116883117
+        },
+        "statistical_tests": {
+          "text_length_difference": {
+            "t_statistic": -1.390586510220175,
+            "p_value": 0.1646608462729427,
+            "significant": "False"
+          }
+        }
+      },
+      "recommendations": [
+        "Strong opinions (1 or 5 stars) tend to be more helpful"
+      ]
+    },
+    "user_product_preferences": {
+      "total_reviews_with_preferences": 0,
+      "preference_rate": 0.0,
+      "keyword_analysis": {},
+      "top_requested_features": []
+    }
+  },
+  "product_analysis": {
+    "ingredient_correlation": {
+      "total_ingredients_analyzed": 0,
+      "significant_correlations": 0,
+      "ingredient_analysis": {},
+      "top_positive_ingredients": [],
+      "top_negative_ingredients": [],
+      "correlation_summary": {
+        "positive_correlations": 0,
+        "negative_correlations": 0,
+        "strongest_positive": null,
+        "strongest_negative": null
+      }
+    },
+    "organic_product_trends": {
+      "period_analysis": {
+        "period_1": {
+          "date_range": "2023-06-07 to 2023-12-07",
+          "stats": {
+            "total_reviews": 260,
+            "organic_reviews": 0,
+            "organic_percentage": 0.0,
+            "organic_avg_rating": 0,
+            "non_organic_avg_rating": 4.388461538461539,
+            "organic_helpful_votes": 0,
+            "unique_organic_products": 0
+          }
+        },
+        "period_2": {
+          "date_range": "2023-12-07 to 2024-06-06",
+          "stats": {
+            "total_reviews": 267,
+            "organic_reviews": 0,
+            "organic_percentage": 0.0,
+            "organic_avg_rating": 0,
+            "non_organic_avg_rating": 4.277153558052435,
+            "organic_helpful_votes": 0,
+            "unique_organic_products": 0
+          }
+        },
+        "period_3": {
+          "date_range": "2024-06-06 to 2024-12-05",
+          "stats": {
+            "total_reviews": 232,
+            "organic_reviews": 0,
+            "organic_percentage": 0.0,
+            "organic_avg_rating": 0,
+            "non_organic_avg_rating": 4.336206896551724,
+            "organic_helpful_votes": 0,
+            "unique_organic_products": 0
+          }
+        },
+        "period_4": {
+          "date_range": "2024-12-05 to 2025-06-05",
+          "stats": {
+            "total_reviews": 240,
+            "organic_reviews": 0,
+            "organic_percentage": 0.0,
+            "organic_avg_rating": 0,
+            "non_organic_avg_rating": 4.445833333333334,
+            "organic_helpful_votes": 0,
+            "unique_organic_products": 0
+          }
+        }
+      },
+      "trend_analysis": {
+        "organic_percentage_trend": {
+          "slope": 0.0,
+          "direction": "decreasing",
+          "change": 0.0
+        },
+        "product_variety_trend": {
+          "slope": 0.0,
+          "direction": "decreasing",
+          "change": 0
+        }
+      },
+      "overall_comparison": {
+        "organic_count": 0,
+        "non_organic_count": 1000,
+        "organic_percentage": 0.0,
+        "rating_comparison": {
+          "organic_avg": 0,
+          "non_organic_avg": 4.36
+        },
+        "helpful_vote_comparison": {
+          "organic_avg": 0,
+          "non_organic_avg": 2.295
+        }
+      },
+      "keyword_frequency": {
+        "organic": "0",
+        "natural": "0",
+        "chemical free": "0",
+        "paraben free": "0",
+        "sulfate free": "0",
+        "cruelty free": "0",
+        "vegan": "0",
+        "plant based": "0",
+        "botanical": "0",
+        "herbal": "0",
+        "non toxic": "0",
+        "clean beauty": "0",
+        "green": "0",
+        "eco friendly": "0"
+      },
+      "top_organic_products": {}
+    },
+    "product_quality_indicators": {
+      "message": "No products meet minimum review criteria"
+    }
+  },
+  "summary_insights": {
+    "key_findings": [],
+    "recommendations": [
+      "Strong opinions (1 or 5 stars) tend to be more helpful",
+      "Monitor recurring spike patterns for marketing optimization",
+      "Leverage superuser insights for influencer partnerships",
+      "Focus on positively correlated ingredients in product development"
+    ],
+    "alerts": [],
+    "trends": {}
+  }
+}
